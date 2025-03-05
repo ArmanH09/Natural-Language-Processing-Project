@@ -1,0 +1,3 @@
+highest
+average
+lowest
